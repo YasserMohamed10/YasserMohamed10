@@ -32,6 +32,9 @@
  <a href="https://wa.me/201202370643" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="whatsapp logo" />
 </a>
+  <a href="https://t.me/201156550480" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="Telegram logo" />
+</a>
 </div>
 
 ###
